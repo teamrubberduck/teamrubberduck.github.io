@@ -1,5 +1,4 @@
-# Homepage for Team Rubberduck 
-<em><small>--Home of awesome</small></em>
+# Homepage for Team Rubberduck
 
 This is a simple homepage for Team Rubberduck &copy
 
